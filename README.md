@@ -24,4 +24,3 @@
 - HTML5 & CSS3
 - Spoonacular REST API
 
-## Installation
