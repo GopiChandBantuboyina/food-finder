@@ -1,0 +1,9 @@
+/* itemList.module.css */
+
+.itemListContainer {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 16px;
+  justify-content: center;
+  padding: 8px;
+}
